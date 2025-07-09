@@ -17,5 +17,4 @@ This project is a Streamlit-based web application that analyzes and predicts a s
 - pandas, seaborn, matplotlib
 - joblib (for saving/loading model)
 
-## 📂 Project Structure
 
